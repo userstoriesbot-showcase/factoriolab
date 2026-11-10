@@ -244,7 +244,7 @@
     "loadLastState": "Load last state",
     "loadSavedState": "Load a saved state",
     "skip": "Skip",
-    "welcome": "Welcome to <b>FactorioLab</b>! Let's get to work."
+    "welcome": "Welcome to <b>FactorioLab</b>! Let's get building."
   },
   "modSet": "Mod set",
   "modSetTooltip": "Select which version or set of mods in Factorio to use",
